@@ -1,0 +1,46 @@
+/* .test {
+    background-color: #1a1c24;
+    background-color: #1a1c24;
+    background-color: #101116;
+    background: #101116;
+    background-color: #1a1c24;
+    background-color: #06e89f;
+    background-color: #de3746;
+    background-color: #de3746;
+    background-color: #ffdd57;
+    background-color: rgba(0, 0, 1, 0.6);
+    background-color: #06e89f;
+    background-color: #ffdd57;
+} */
+
+.invite-title {
+    color: #de3746;
+}
+
+.submit-btn {
+    color: #de3746;
+    text-decoration: none;
+}
+
+.submit-btn:hover {
+    color: #06e89f;
+}
+
+.form-text {
+    color: #ffdd57;
+}
+
+.form-label {
+    color: #de3746;
+}
+
+.logo-img {
+    max-width: 300px;
+    max-height: 300px;
+    padding: 0;
+    margin: 0;
+}
+
+.important-shit {
+    color: #ffdd57;
+}
