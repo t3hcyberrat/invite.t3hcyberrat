@@ -9,10 +9,6 @@ export default function Home() {
           <img src={Logo.src} className="logo-img" />
         </div>
 
-        <div className="col-sm-12 col-md-6 offset-md-3 text-center">
-          <p className="invite-title fs-1 lh-sm mb-0">Welcome 127.0.0.1</p>
-        </div>
-
         <div className="col-sm-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4">
           <p className="mb-0">T3hCyberRat, .connection & SOC studio are throwing a holiday bash and YOU'RE INVITED!</p>
 
