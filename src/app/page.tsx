@@ -20,25 +20,13 @@ export default function Home() {
             Join us for an evening of merriment, music, and making memories (or just plain old having fun).
           </p>
 
-          <p className="important-shit">Date: [Insert Date]</p>
-          <p className="important-shit">Time: [Insert Time]</p>
-          <p className="important-shit">Location: [Insert Location]</p>
+          <p className="important-shit">Date: 03.01.2025</p>
+          <p className="important-shit">Time: To be determined (but most likely around 22)</p>
+          <p className="important-shit">Location: SOC Studio - if you know, you know</p>
 
           <p className="mb-0">Dress code: Festive vibes only (hoodies, sweatpants, and holiday cheer encouraged)</p>
           <p className="mb-0">See you there, minions!</p>
         </div>
-
-        {/* <div className="col-12">
-          <form>
-            <div className="mb-3">
-              <label htmlFor="email" className="form-label">Email address</label>
-              <input type="email" className="form-control" id="email" aria-describedby="emailHelp" />
-              <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
-            </div>
-
-            <button type="submit" className="btn btn-link submit-btn">Submit</button>
-          </form>
-        </div> */}
 
         <div className="col-sm-12 col-md-6 offset-md-3 align-self-end text-center">
           <p>// from T3hCyberRat with l0v3</p>
