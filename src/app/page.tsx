@@ -25,7 +25,7 @@ export default function Home() {
         </div>
 
         <div className="col-sm-12 col-md-6 offset-md-3 align-self-end text-center">
-          <p>// from T3hCyberRat with l0v3</p>
+          <p>// from T3hCyberRat with m4l1ce</p>
         </div>
       </div>
     </div>
